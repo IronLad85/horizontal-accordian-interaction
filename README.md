@@ -2,7 +2,7 @@
 
 This project was inspired by a design from Dribbble. 
 
-[Alt for Image](https://github.com/IronLad85/horizontal-accordian-interaction/tree/master/src/assets/image.png)
+<img src="https://github.com/IronLad85/horizontal-accordian-interaction/tree/master/src/assets/image.png" width="600" height="400"/>
 
 [Demo](https://www.google.com)
 
