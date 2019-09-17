@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/horizontal-accordian-interaction/static/css/main.54ea93a9.chunk.css",
+    "main.js": "/horizontal-accordian-interaction/static/js/main.24c7ff50.chunk.js",
+    "main.js.map": "/horizontal-accordian-interaction/static/js/main.24c7ff50.chunk.js.map",
+    "runtime~main.js": "/horizontal-accordian-interaction/static/js/runtime~main.7ba48d29.js",
+    "runtime~main.js.map": "/horizontal-accordian-interaction/static/js/runtime~main.7ba48d29.js.map",
+    "static/js/2.201ba816.chunk.js": "/horizontal-accordian-interaction/static/js/2.201ba816.chunk.js",
+    "static/js/2.201ba816.chunk.js.map": "/horizontal-accordian-interaction/static/js/2.201ba816.chunk.js.map",
+    "index.html": "/horizontal-accordian-interaction/index.html",
+    "precache-manifest.6c4658c1c4a3c00d48e9449c0f5c4ea9.js": "/horizontal-accordian-interaction/precache-manifest.6c4658c1c4a3c00d48e9449c0f5c4ea9.js",
+    "service-worker.js": "/horizontal-accordian-interaction/service-worker.js",
+    "static/css/main.54ea93a9.chunk.css.map": "/horizontal-accordian-interaction/static/css/main.54ea93a9.chunk.css.map",
+    "static/media/hellboy1.jpg": "/horizontal-accordian-interaction/static/media/hellboy1.ca722f66.jpg",
+    "static/media/joker1.jpg": "/horizontal-accordian-interaction/static/media/joker1.f2f2ee12.jpg",
+    "static/media/starwars1.jpg": "/horizontal-accordian-interaction/static/media/starwars1.b87a8b31.jpg",
+    "static/media/wick1.jpg": "/horizontal-accordian-interaction/static/media/wick1.cd70bd42.jpg"
+  }
+}

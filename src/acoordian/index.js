@@ -15,7 +15,7 @@ export default class Accordian extends React.Component {
 
   getBlockStyle(index) {
     let { activeBlockIndex } = this.state;
-    let paneStateClass = activeBlockIndex == index ? "active-block" : "inactive-block";
+    let paneStateClass = activeBlockIndex === index ? "active-block" : "inactive-block";
     let normalFlexValue = 1;
     let hoverStyle = {};
     let lgDevicesHover = { flex: 1 };
